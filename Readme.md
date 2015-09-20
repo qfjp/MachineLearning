@@ -25,3 +25,17 @@ make
 
 Then you can compile the main program by running `make` from the
 top-level directory.
+
+Git Instructions
+----------------
+A good tutorial can be found
+[here](https://pcottle.github.io/learnGitBranching).
+
+Git commits should conform to the following rules:
+* Always commit to a branch, never to master (unless you are merging
+  code)
+* The first line of a git commit is 50 characters or less
+* Any text other than the first line should be preceded by a blank
+  line, and wrapped at 72 characters.
+* All commit messages should be in the present imperative case
+  (`Change...`, not `Changes...` or `Changed...`)
