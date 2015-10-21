@@ -1,0 +1,25 @@
+Breif idea: 
+===========
+Based on some Graph features, how can we predict some target values.
+We target here two different ideas
+  1-Learning from a dataset and apply the learned model to a similar dataset (dataset from the same domain of knowladge)
+  2-Learning from a dataset and apply the learned model to a different dataset (corss domain knowladge)
+
+Extracted Graph Features
+========================
+
+Basis Functions
+===============
+
+Learning function of the target
+===============================
+In this part we can learn the target value directly or we can learn some functions of the target.
+
+Learning models
+===============
+
+Best Graph features and learning model
+======================================
+
+Dataset
+=======
